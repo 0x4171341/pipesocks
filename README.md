@@ -1,4 +1,5 @@
-## pipesocks script by nanqinlang  
+## pipesocks script by nanqinlang
+`wget -N --no-check-certificate https://github.com/nanqinlang/pipesocks/releases/download/1.0/pipesocks_1.0.sh && chmod +x pipesocks_1.0.sh && bash pipesocks_1.0.sh install`  
 wiki: https://www.nanqinlang.com/shell-pipesocks.html  
 releases: https://github.com/nanqinlang/pipesocks/releases
 
